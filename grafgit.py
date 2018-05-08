@@ -9,3 +9,4 @@ plt.plot(x,y)
 plt.savefig("graficagit.png")
 
 
+ñ
